@@ -1,0 +1,15 @@
+{
+  "short_name": "Goodreads",
+  "name": "Goodreads Launcher",
+  "icons": [
+    {
+      "src": "goodreads.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    }
+  ],
+  "start_url": "goodreads.html",
+  "background_color": "#f4f1ea",
+  "display": "standalone",
+  "theme_color": "#f4f1ea"
+}
