@@ -1,14 +1,14 @@
 {
-  "short_name": "Justin Brett",
-  "name": "Justin Brett Launcher",
+  "short_name": "Dustin Brett",
+  "name": "daedalOS",
   "icons": [
     {
-      "src": "justinbrett.png",
+      "src": "dustinbrett.png",
       "type": "image/png",
       "sizes": "48x48"
     }
   ],
-  "start_url": "justinbrett.html",
+  "start_url": "dustinbrett.html",
   "background_color": "#ffffff",
   "display": "standalone",
   "theme_color": "#ffffff"
